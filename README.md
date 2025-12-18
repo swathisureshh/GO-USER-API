@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [(https://github.com/swathisureshh/go-backend-hub.git)]
+**URL**: [(https://github.com/swathisureshh/GO-USER-API.git)]
 
 ## How can I edit this code?
 
@@ -19,7 +19,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <[(https://github.com/swathisureshh/go-backend-hub.git)]>
+git clone <[(https://github.com/swathisureshh/GO-USER-API.git)]>
 
 # Step 2: Navigate to the project directory.
 cd <Go-User-API>
